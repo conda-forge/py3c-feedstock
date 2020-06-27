@@ -1,4 +1,4 @@
-{% set version = "1.0" %}
+{% set version = "1.2" %}
 
 package:
   name: py3c
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/encukou/py3c/archive/v{{ version }}.tar.gz
-  sha256: f97fbc2eb5187df2499c3d5cf6c23ee0dac046eb0a88d67eea5e444cf116cd8e
+  sha256: 0e28ea43f5f092967a344294194f55a81fb55adc3c17a0314545d606eb5f6267
 
 build:
   number: 0
