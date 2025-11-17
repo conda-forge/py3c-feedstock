@@ -14,7 +14,11 @@ build:
 requirements:
   build:
     - m2-base  # [win]
-    - make
+    - m2-sed  # [win]
+    - m2-make  # [win]
+    - m2-bash  # [win]
+    - m2-coreutils  # [win]
+    - make  # [unix]
   host:
 
 test:
