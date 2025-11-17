@@ -13,7 +13,7 @@ build:
 
 requirements:
   build:
-    - posix  # [win]
+    - m2-base  # [win]
     - make
   host:
 
