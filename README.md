@@ -195,4 +195,5 @@ Feedstock Maintainers
 =====================
 
 * [@jakirkham](https://github.com/jakirkham/)
+* [@rfiorella](https://github.com/rfiorella/)
 
